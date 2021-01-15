@@ -1,9 +1,9 @@
-# Podcasts
+# Podcasts I Liked
 
 ## Ezra Klein
 
 - [With Kim Stanley Robinson (On climate change)](https://open.spotify.com/episode/2m2OT1IvL1KCUNilxmBNQm)
-*The most important book I've read this year*
+*Ezra Klein: The most important book I've read this year*
 
 - [End of podcast](https://open.spotify.com/episode/0EsqWGFffO6nz20ktTKhYb)
 A brilliant review of his show with excerpts from his favorites interviews.
